@@ -14,7 +14,7 @@ class Schedule():
         'Connection': 'keep-alive',
         'Content-Length': '74',
         'Content-Type': 'application/x-www-form-urlencoded',
-        'Cookie': 'JSESSIONID=D47410AC4F2AC2C2371D13D1F5165AF7; JSESSIONID=3B9D865B6CC8D4CC7FC4AD0109B4BFCD',
+        'Cookie': 'JSESSIONID=D474*******5AF7; JSESSIONID=3B9D865B6C*******09B4BFCD', # 请用自己的cookie
         'Host': 'my.xaufe.edu.cn',
         'Origin': 'http://my.xaufe.edu.cn',
         'Pragma': 'no-cache',
